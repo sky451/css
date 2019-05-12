@@ -1,0 +1,7 @@
+font-family:可以设置多种字体，选择先前没有选后，中文加双引号
+文字加粗：font-weight:bolder/bold/normal
+文字倾斜：font-style
+水平对齐方式：font-align
+字体大小：font-size (px,em，百分比）
+
+
